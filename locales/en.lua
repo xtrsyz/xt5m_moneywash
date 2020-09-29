@@ -3,6 +3,7 @@ Locales['en'] = {
 	['you_have_washed_waiting'] = 'You have ~r~dirty waiting to be washed. ~s~Time:~b~  ',
 	['dirty_money'] 			= ' dirty money.',
 	['you_have_received'] 		= ' ~s~You received a total of ~g~$',
+	['you_lost']				= ' ~s~You lost a~r~',
 	['clean_money'] 			= ' clean money',
 	['invalid_amount']			= 'You have entered an invalid amount',
 	['press_menu'] 				= 'press ~INPUT_CONTEXT~ to ~r~wash your money.~s~',

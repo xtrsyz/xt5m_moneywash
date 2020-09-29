@@ -1,7 +1,7 @@
 fx_version 'adamant'
 games { 'gta5' }
 
-description 'ESX Money Wash'
+description 'GiGNe Money Wash'
 version '0.1.2'
 
 client_scripts {
@@ -25,6 +25,6 @@ server_scripts {
 
 dependencies {
 
-    'es_extended',
+	'es_extended',
 
 }

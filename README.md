@@ -2,8 +2,6 @@
 
 A money washing script for FiveM. 
 
-FiveM forum post: https://forum.fivem.net/t/esx-moneywash/827640
-
 **Details:**
 
 This is a script using the ESX framework. I am currently using this on my server without any errors. I am using this along side esx_society. This script is very easy to use. It allows users to wash their dirty money at set locations though out the map. currently it is only one location but more can easily be added in the config. The original location is using a part of the map that you need to set teleport up to.
@@ -23,9 +21,9 @@ This is my first release on FiveM and I am still learning LUA. Will try my best 
 **Installation:**
 
 1. Add the following to your **server.cfg**
-> start esx_moneywash
-2. Insert esx_moneywash-master into your /resources/[ESX] folder
-3. Rename esx_moneywash-master to esx_moneywash
+> start xt5m_moneywash
+2. Insert xt5m_moneywash-master into your /resources/[ESX] folder
+3. Rename xt5m_moneywash-master to xt5m_moneywash
 4. Restart/Start your server
 
 
@@ -38,7 +36,7 @@ This is my first release on FiveM and I am still learning LUA. Will try my best 
 ![Image5](https://forum.fivem.net/uploads/default/original/4X/f/f/0/ff00bb40a4965c635b3b90b5389ab2912fa3e0eb.jpeg)
 
 **Download:**
-<a href="https://github.com/iTzCrutchie/esx_moneywash/archive/master.zip">esx_moneywash</a>
+<a href="https://github.com/xtrsyz/xt5m_moneywash/archive/master.zip">xt5m_moneywash</a>
 
 
 **Credits**
